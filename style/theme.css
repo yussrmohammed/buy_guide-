@@ -1,0 +1,26 @@
+body{
+    color: #292C35;
+}
+body.dark {
+	background: #292C35;
+    color: #fff;
+}
+body.dark .card{
+    background-color: #292C35;
+    
+}
+body.dark .user-li {
+    background-color: #292C35;
+    color: #fff;
+}
+body.dark .modal-content {
+    color: #fff;
+    background-color: #292C35;
+}
+body.dark #footer{
+    color: #111;
+}
+body.dark .profile ul::before{
+    background-color: #292C35;
+    
+}
